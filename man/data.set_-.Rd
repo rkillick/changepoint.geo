@@ -29,7 +29,7 @@ data.set(object) <- value
 }
 
 \seealso{
-	\code{\link[changepoint.geo]{data.set<--methods}}
+	\code{\link[data.set_--methods]{data.set<--methods}}
 }
 \examples{
 x <- new('cpt.geo')
