@@ -29,7 +29,7 @@ pen.value(object) <- value
 }
 
 \seealso{
-	\code{\link{pen.value<--methods}}
+	\code{\link[changepoint.geo]{pen.value<--methods}}
 }
 \examples{
 x <- new('cpt.geo')

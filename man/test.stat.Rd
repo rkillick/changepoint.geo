@@ -24,7 +24,7 @@ test.stat(object)
 	Thomas Grundy
 }
 \seealso{
-	\code{\link{test.stat-methods}}
+	\code{\link[changepoint.geo]{test.stat-methods}}
 }
 \examples{
 x <- new('cpt.geo')	#new cpt.geo object

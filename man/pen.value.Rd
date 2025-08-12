@@ -24,7 +24,7 @@ pen.value(object)
 	Thomas Grundy
 }
 \seealso{
-	\code{\link{pen.value-methods}}
+	\code{\link[changepoint.geo]{pen.value-methods}}
 }
 \examples{
 x <- new('cpt.geo')	#new cpt.geo object
