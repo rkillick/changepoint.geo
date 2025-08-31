@@ -29,7 +29,7 @@ test.stat(object) <- value
 }
 
 \seealso{
-	\code{\link[changepoint.geo:test.stat--methods]{test.stat<--methods}}
+	\code{\linkS4class{cpt.geo}}
 }
 \examples{
 x <- new('cpt.geo')
