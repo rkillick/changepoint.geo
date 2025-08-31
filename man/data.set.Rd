@@ -24,7 +24,7 @@ data.set(object)
 	Thomas Grundy
 }
 \seealso{
-	\code{\link[changepoint.geo]{data.set-methods}}
+	\code{\link[changepoint.geo:data.set-methods]{data.set-methods}}
 }
 \examples{
 x <- new('cpt.geo')	#new cpt.geo object
